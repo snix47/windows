@@ -1,0 +1,3 @@
+This .reg file re-enables the registry backup that ms removed 2018ish...
+
+There is also a at scheduler .xml to fix the scheduled task so that it actually runs.
