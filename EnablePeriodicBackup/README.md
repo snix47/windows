@@ -6,3 +6,5 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Configuratio
 Add Dword 32Bit [EnablePeriodicBackup] set to 1
 
 schtasks /run /i /tn "\Microsoft\Windows\Registry\RegIdleBackup"
+
+You´ll find the backups here: C:\Windows\System32\config\RegBack
