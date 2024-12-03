@@ -8,3 +8,7 @@ Add Dword 32Bit [EnablePeriodicBackup] set to 1
 schtasks /run /i /tn "\Microsoft\Windows\Registry\RegIdleBackup"
 
 You´ll find the backups here: C:\Windows\System32\config\RegBack
+
+Also check that system restore points is enabled
+
+![system restore](system Restore enable.jpg.jpg)
