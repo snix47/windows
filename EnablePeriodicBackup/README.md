@@ -11,4 +11,4 @@ You´ll find the backups here: C:\Windows\System32\config\RegBack
 
 Also check that system restore points is enabled
 
-![system restore](system Restore enable.jpg.jpg)
+![system restore](system Restore enable.jpg)
