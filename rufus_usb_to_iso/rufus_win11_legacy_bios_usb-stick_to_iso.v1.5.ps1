@@ -73,7 +73,6 @@
 Write-Host "=== Custom Windows 11 (Legacy BIOS) USB -> ISO Creator ===" -ForegroundColor Cyan
 
 # ---- CONFIG ----
-# $oscdimg = "C:\Program Files (x86)\Windows Kits\10\Assessment and Deployment Kit\Deployment Tools\amd64\Oscdimg\oscdimg.exe"
 $oscdimg = Join-Path $PSScriptRoot "oscdimg.exe"
 $tempFolder = "C:\ISO_BUILD"
 
