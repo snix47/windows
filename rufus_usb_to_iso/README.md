@@ -1,5 +1,5 @@
 
-    Rufus USB-Stick to .iso file converter
+#    Rufus USB-Stick to .iso file converter
     
     This script converts a RUFUS-created Windows 11 USB installation drive
     into a fully bootable ISO file suitable for virtualization platforms
