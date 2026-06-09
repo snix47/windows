@@ -1,0 +1,7 @@
+{
+  "LogName": "ForwardedEvents",
+  "SmbShare": "\\\\SERVER\\SHARENAME",
+  "OutputFolder": "forwardedevents",
+  "FilePrefix": "ForwardedEvents",
+  "DriveLetter": "W"
+}
